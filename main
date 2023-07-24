@@ -1,0 +1,11 @@
+{
+  "contact": "https://github.com/shaanaliyev",
+  "templates": [
+    {
+      "name": "NAME_YOUR_ART",
+      "sources": ["PASTE_IMAGE_URL_HERE"],
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
